@@ -25113,6 +25113,7 @@ p.disc.banner-para {
 .rts-map-area::after {
   position: absolute;
   content: "";
+  display:none;
   background-image: url(../images/contact/shape/01.png);
   height: 105px;
   width: 105px;
