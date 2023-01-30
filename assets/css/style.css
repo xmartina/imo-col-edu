@@ -22305,6 +22305,7 @@ p.disc.banner-para {
   }
 }
 .bg-white-feature::after {
+  display:none;
   position: absolute;
   content: "";
   height: 763px;
