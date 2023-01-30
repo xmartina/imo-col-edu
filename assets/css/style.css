@@ -21962,6 +21962,7 @@ p.disc.banner-para {
 
 .bg-team {
   background-image: url(../images/team/bg-01.jpg);
+  display:none;
   height: 1029px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
